@@ -1,0 +1,8 @@
+htop
+vscode
+bro pages
+tmux
+nnn
+neofetch
+entr
+ipython

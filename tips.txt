@@ -1,0 +1,8 @@
+1. apropos= searches man pages for a word
+2. sudo !! or just !<history number>
+3. alt + . = pastes in the last arguments
+4. ctrl + x + e = opens a editor to input a command
+5. tee = intercept something going to a log file and output to screen
+6. kill = kill a process
+7. ctrl U + ctrl Y = removes text behind curser and pastes it back
+8. ctrl W = kill backwards by word
