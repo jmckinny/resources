@@ -6,3 +6,4 @@
 6. kill = kill a process
 7. ctrl U + ctrl Y = removes text behind curser and pastes it back
 8. ctrl W = kill backwards by word
+9. ctrl L = Clear the terminal
