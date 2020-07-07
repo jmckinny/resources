@@ -1,8 +1,13 @@
 htop
 vscode
 bro pages
+tldr
 tmux
 nnn
 neofetch
 entr
 ipython
+awk
+sed
+rg
+
