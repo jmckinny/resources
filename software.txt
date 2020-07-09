@@ -10,4 +10,4 @@ ipython
 awk
 sed
 rg
-
+tr
