@@ -5,3 +5,4 @@
 * [regex veiwer](https://regexr.com/)
 * [chmod calc](https://chmod-calculator.com/)
 * [$PS1 Maker](http://bashrcgenerator.com/)
+* [Regex Cheatsheet](http://www.rexegg.com/regex-quickstart.html)
