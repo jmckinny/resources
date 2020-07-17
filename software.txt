@@ -11,3 +11,4 @@ awk
 sed
 rg
 tr
+Albert Launcher
