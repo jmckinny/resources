@@ -9,3 +9,4 @@
 9. ctrl L = Clear the terminal
 10. !$ Last Parameter from previous command
 11. !* all parameters from previous command
+12. ctrl R = search through previous commands
