@@ -1,0 +1,16 @@
+# Useful Software
+- htop
+- vscode
+- bro pages
+- [tldr](https://tldr.sh/)
+- tmux
+- nnn
+- neofetch
+- [onefetch](https://github.com/o2sh/onefetch)
+- entr
+- ipython
+- awk
+- sed
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- tr
+- [bottom](https://github.com/ClementTsang/bottom)
