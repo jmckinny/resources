@@ -16,3 +16,4 @@
 - [exa](https://github.com/ogham/exa)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [zellij](https://github.com/zellij-org/zellij)
+- [helix](https://github.com/helix-editor/helix)
