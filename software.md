@@ -1,8 +1,6 @@
 # Useful Software
 - htop
-- vscode
-- bro pages
-- [tldr](https://tldr.sh/)
+- [tldr](https://github.com/dbrgn/tealdeer)
 - tmux
 - nnn
 - neofetch
@@ -11,6 +9,10 @@
 - ipython
 - awk
 - sed
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
 - tr
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [bottom](https://github.com/ClementTsang/bottom)
+- [bat](https://github.com/sharkdp/bat)
+- [exa](https://github.com/ogham/exa)
+- [hexyl](https://github.com/sharkdp/hexyl)
+- [zellij](https://github.com/zellij-org/zellij)
