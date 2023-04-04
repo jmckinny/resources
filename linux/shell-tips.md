@@ -1,0 +1,13 @@
+# Shell Tips
+- `apropos` searches man pages for a word
+- `sudo !!` or just `!<history number>` reruns command
+- `alt + .` pastes in the last arguments
+- `ctrl + x + e` opens a editor to input a command
+- `tee` intercept something going to a log file and output to screen
+- `kill` kill a process
+- `ctrl U + ctrl Y` removes text behind curser and pastes it back
+- `ctrl W` kill backwards by word
+- `ctrl L` Clear the terminal
+- `!$` Last Parameter from previous command
+- `!*` all parameters from previous command
+- `ctrl r` search through previous commands

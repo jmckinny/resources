@@ -1,4 +1,4 @@
-# Helpful Link Links
+# Helpful Websites
 
 * [bash one liners](http://www.bashoneliners.com/)
 * [Keyboard Training](https://www.keybr.com/)

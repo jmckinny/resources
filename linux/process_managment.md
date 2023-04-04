@@ -1,11 +1,13 @@
-outline:
+# Linux Process Managment
+## Outline
 - init
 - fork/exec
 - ps
 - kill
 - fg/bg/jobs
 
-start a process:
+## Starting/Stopping
+start a process
 [command]
 
 replace current process with another process:
@@ -14,7 +16,7 @@ exec [command]
 see processes in your shell:
 ps f
 
-kill processes:
+## Killing Processes
 kill -15 [pid]     <- sends sigterm
 kill     [pid]     <- also sends sigterm
 kill -2  [pid]     <- sends sigint
