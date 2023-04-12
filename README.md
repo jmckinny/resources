@@ -6,6 +6,7 @@ A collection of various useful resources I've compiled
 - [cli programs](./tools/cli.md)
 - [tmux cheatsheet](./tools/tmux.md)
 - [useful websites](./tools/web-tools.md)
+- [missing semester MIT](https://missing.csail.mit.edu/)
 
 ## Linux
 - [shell tips](./linux/process_managment.md)
