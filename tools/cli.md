@@ -17,3 +17,4 @@
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [zellij](https://github.com/zellij-org/zellij)
 - [helix](https://github.com/helix-editor/helix)
+- [just](https://github.com/casey/just) 
