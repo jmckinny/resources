@@ -11,3 +11,4 @@
 - `!$` Last Parameter from previous command
 - `!*` all parameters from previous command
 - `ctrl r` search through previous commands
+- `fc` fix last command
