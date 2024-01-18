@@ -13,7 +13,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [bottom](https://github.com/ClementTsang/bottom)
 - [bat](https://github.com/sharkdp/bat)
-- [exa](https://github.com/ogham/exa)
+- [eza](https://github.com/eza-community/eza)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [zellij](https://github.com/zellij-org/zellij)
 - [helix](https://github.com/helix-editor/helix)
