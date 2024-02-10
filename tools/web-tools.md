@@ -1,5 +1,6 @@
 # Helpful Websites
 
+* [missing semester MIT](https://missing.csail.mit.edu/)
 * [bash one liners](http://www.bashoneliners.com/)
 * [Keyboard Training](https://www.keybr.com/)
 * [regex veiwer](https://regexr.com/)

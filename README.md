@@ -5,7 +5,6 @@ A collection of various useful resources I've compiled
 ## General
 
 - [Justin's software zen](./general/software-zen.md)
-- [missing semester MIT](https://missing.csail.mit.edu/)
 
 ## Tools
 
