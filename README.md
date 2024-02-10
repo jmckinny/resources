@@ -4,14 +4,14 @@ A collection of various useful resources I've compiled
 
 ## General
 
-- [software zen](./general/software-zen.md)
+- [Justin's software zen](./general/software-zen.md)
+- [missing semester MIT](https://missing.csail.mit.edu/)
 
 ## Tools
 
 - [cli programs](./tools/cli.md)
 - [tmux cheatsheet](./tools/tmux.md)
 - [useful websites](./tools/web-tools.md)
-- [missing semester MIT](https://missing.csail.mit.edu/)
 
 ## Linux
 
