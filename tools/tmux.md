@@ -37,5 +37,9 @@
 - `Ctrl-b :` "break-pane"
 
 ## add to ~/.tmux.conf
-- bind | split-window -h
-- bind - split-window -v
+- Ctrl-b | split window horizontal
+- Ctrl-b - split window vertically
+- Ctrl-b h select pane left
+- Ctrl-b j select pane down
+- Ctrl-b k select pane up
+- Ctrl-b l select pane right
