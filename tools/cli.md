@@ -1,4 +1,5 @@
 # Useful Software
+
 - htop
 - [tldr](https://github.com/dbrgn/tealdeer)
 - tmux
@@ -17,4 +18,5 @@
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [zellij](https://github.com/zellij-org/zellij)
 - [helix](https://github.com/helix-editor/helix)
-- [just](https://github.com/casey/just) 
+- [just](https://github.com/casey/just)
+- [pass](https://www.passwordstore.org/)
