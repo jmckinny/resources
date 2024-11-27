@@ -20,3 +20,4 @@
 - [helix](https://github.com/helix-editor/helix)
 - [just](https://github.com/casey/just)
 - [pass](https://www.passwordstore.org/)
+- [radare2](https://rada.re/n/)
