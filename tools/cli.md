@@ -21,3 +21,4 @@
 - [just](https://github.com/casey/just)
 - [pass](https://www.passwordstore.org/)
 - [radare2](https://rada.re/n/)
+- [ccze](https://linux.die.net/man/1/ccze)
